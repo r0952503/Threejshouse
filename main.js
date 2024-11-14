@@ -8,6 +8,16 @@ import * as dat from 'dat.gui'
 //gsap
 import gsap from "gsap"; 
 
+import { defineConfig } from 'vite';
+
+export default defineConfig({
+  base: '/',
+  build: {
+    assetsDir: 'assets',
+  },
+});
+
+
 
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 0.1, 1000 );
