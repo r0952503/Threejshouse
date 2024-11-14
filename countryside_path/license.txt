@@ -1,0 +1,11 @@
+Model Information:
+* title:	Countryside Path (CC0)
+* source:	https://sketchfab.com/3d-models/countryside-path-cc0-d78173346de34c0f81ee9ad225b8ce38
+* author:	britdawgmasterfunk (https://sketchfab.com/britdawgmasterfunk)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Countryside Path (CC0)" (https://sketchfab.com/3d-models/countryside-path-cc0-d78173346de34c0f81ee9ad225b8ce38) by britdawgmasterfunk (https://sketchfab.com/britdawgmasterfunk) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
