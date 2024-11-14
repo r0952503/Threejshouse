@@ -236,7 +236,7 @@ scene.add(roof2);
 
 const loader = new GLTFLoader();
 loader.load(
-    'countryside_path/scene.gltf', // Replace with the actual path to your model file
+    '/countryside_path/scene.gltf', // Replace with the actual path to your model file
     function (gltf) {
         const countrysidePath = gltf.scene;
         countrysidePath.position.set(2.4, -1.2, 2.6); // Adjust position as needed
